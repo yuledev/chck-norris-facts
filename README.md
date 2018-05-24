@@ -2,7 +2,7 @@
 
 Test tecnico frontend dev
 
-##Installazione
+## Installazione
 
 Installa il pacchetto serve:
 
@@ -10,7 +10,7 @@ Installa il pacchetto serve:
 npm install -g serve
 ```
 
-##Avvio
+## Avvio
 
 Naviga nella cartella del progetto e digita:
 
